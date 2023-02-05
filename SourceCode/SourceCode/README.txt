@@ -1,5 +1,5 @@
-Author: 200010781
-This archive contains source code, and instances for CS4402 practical 2.
+Author: Yujie Dai
+This archive contains source code, and instances for Constraint Programming practical 2.
 
 
 <1>Source code structure
